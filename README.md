@@ -4,6 +4,9 @@
 ### My Stacks
 <img src="https://img.shields.io/badge/Languages-f5d30a5?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-f5d30a?style=for-the-badge&logo=c%2B%2B&logoColor=20fcfee&labelColor=f5d30a)![badge-java](https://img.shields.io/badge/java-f5d30a?style=for-the-badge&logo=java&logoColor=f5d30a&labelColor=f5d30a) <br/>
 <img src="https://img.shields.io/badge/Database-f5d30a?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-f5d30a?style=for-the-badge&logo=mysql&logoColor=f5d30a&labelColor=f5d30a)
+ 
+ <img src="https://img.shields.io/badge/Database-f5d30a?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-Graphic Design](https://img.shields.io/badge/Graphic Desig-f5d30a?style=for-the-badge&logo=Graphic Desig&logoColor=f5d30a&labelColor=f5d30a)
+ 
 
 ## My Handles
 
